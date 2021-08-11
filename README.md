@@ -1,2 +1,2 @@
 # HiddenSearchWidget
-You'll a search icon on the screen and on clicking it would expand the search box. 
+You'll have a search icon on the screen and on clicking it would expand the search box. 
